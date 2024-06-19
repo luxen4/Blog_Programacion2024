@@ -1,0 +1,8 @@
+<!--$_COOKIE
+        <div class="row" style="margin-top: 2em; margin-bottom: 2em;">
+            <div id="#" class="col-xl-12 text-center col-lg-6 col-md-10 col-sm-10 col-12">
+            <?php include 'carrusel_horizontal.php'; ?>
+                <!--<iframe style="width: 100%; height: 200px;" src="./carrusel_horizontal.php"></iframe>-->
+            </div>
+        </div>
+-->

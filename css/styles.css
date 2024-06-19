@@ -1,0 +1,57 @@
+article {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+
+h1, h2, h3, h4, p {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    text-align: left;
+    color: #219DE3
+}
+
+
+
+img { 
+    /*width: 75%;*/
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.custom-button {
+    width: 200px;
+    height: 50px;
+    background-image: url('./../img/bandera1.png');
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    line-height: 50px;
+}
+
+
+.custom-button:hover {
+    opacity: 0.8;
+}
+
+
+
+.custom-button:hover {
+    opacity: 0.8;
+}
+
+
+footer{
+       background-color: #F8F9FA; 
+}
+
+footer p{
+    text-align: center;
+
+}
